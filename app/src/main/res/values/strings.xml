@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Hoggers</string>
+    <string name="selectedImage">Image of the Item Selected</string>
+    <string name="name_of_selected_item">Name</string>
+    <string name="hog_in">HOG IN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">Sign up</string>
+    <string name="not_a_hogger_yet">Not a hogger yet?</string>
+    <string name="menu_header">Where d\'ya wanna hog?</string>
+    <string name="juice_berg">JUICE BERG</string>
+    <string name="mc">MADDHUK CAFE</string>
+    <string name="dc">DOSA CO</string>
+    <string name="tea_shop">Tea shop</string>
+    <string name="menu">MENU</string>
+    <string name="become_a_hogger">Become a Hogger</string>
+    <string name="email_id">Email Id</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="payment_successful">Payment successful</string>
+    <string name="thank_you">Thank you for using Hoggers. Have a great meal!</string>
+    <string name="like_to_do">What would you like to do?</string>
+    <string-array name="food_list_JuiceBerg">
+        <item>Oreo Shake</item>
+        <item>Pista Shake</item>
+        <item>Veg Burger</item>
+        <item>Chicken Burger</item>
+        <item>Chicken Noodles</item>
+        <item>Chicken Munchurian</item>
+        <item>Oreo Shake</item>
+        <item>Pista Shake</item>
+        <item>Veg Burger</item>
+        <item>Chicken Burger</item>
+        <item>Chicken Noodles</item>
+        <item>Chicken Munchurian</item>
+    </string-array>
+    <string-array name="prices_JuiceBerg">
+        <item>40</item>
+        <item>45</item>
+        <item>30</item>
+        <item>40</item>
+        <item>80</item>
+        <item>100</item>
+        <item>40</item>
+        <item>45</item>
+        <item>30</item>
+        <item>40</item>
+        <item>80</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="food_list_MC">
+        <item>tea</item>
+        <item>coffee</item>
+        <item>samosa</item>
+        <item>Chicken roll</item>
+        <item>veg roll</item>
+        <item>Gulab jamun</item>
+    </string-array>
+    <string-array name="prices_MC">
+        <item>10</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="food_list_DC">
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+    </string-array>
+    <string-array name="prices_DC">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+
+    <string-array name="food_list_ex1"> <!--Tea shop-->
+        <item>tea</item>
+        <item>coffee</item>
+        <item>egg puff</item>
+        <item>Chicken puff</item>
+        <item>biscuits</item>
+    </string-array>
+    <string-array name="prices_ex1">
+        <item>7</item>
+        <item>8</item>
+        <item>17</item>
+        <item>20</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="food_list_ex2">
+        <item>k</item>
+        <item>l</item>
+        <item>m</item>
+    </string-array>
+    <string-array name="prices_ex2">
+        <item>11</item>
+        <item>22</item>
+        <item>33</item>
+    </string-array>
+</resources>

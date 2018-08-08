@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.crypticsocket.hoggers.Main5Activity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/payment_successful"
+        android:textSize="20sp"
+        android:textColor="@color/subHead"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:text="@string/thank_you"
+        android:gravity="center"
+        android:textSize="40sp"
+        android:layout_gravity="center"
+        android:layout_centerInParent="true"
+        android:layout_above="@+id/bottom"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/bottom">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/like_to_do"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:textColor="#000"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_shape"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:text="order next item"
+            android:onClick="backToList"
+            style="@style/Widget.AppCompat.Button.Colored"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/button_shape"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:text="back to main menu"
+            android:onClick="mainMenu"
+            style="@style/Widget.AppCompat.Button.Colored"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/button_shape"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:text="log out"
+            android:onClick="logOut"
+            style="@style/Widget.AppCompat.Button.Colored"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
