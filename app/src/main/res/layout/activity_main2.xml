@@ -14,7 +14,7 @@
         android:gravity="center"
         android:text="@string/menu_header"
         android:textColor="#212121"
-        android:textSize="30sp" />
+        android:textSize="20sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -28,7 +28,7 @@
             android:layout_height="match_parent"
             android:layout_margin="2dp"
             android:layout_weight="1"
-            android:drawableStart="@drawable/ic_local_dining_white_24dp"
+            android:drawableStart="@drawable/ic_local_dining_black_24dp"
             android:gravity="center"
             android:onClick="toMenu"
             android:text="@string/juice_berg"
@@ -41,7 +41,7 @@
             android:layout_height="match_parent"
             android:layout_margin="2dp"
             android:layout_weight="1"
-            android:drawableStart="@drawable/ic_local_cafe_white_24dp"
+            android:drawableStart="@drawable/ic_local_cafe_black_24dp"
             android:onClick="toMenu"
             android:text="@string/mc"
             android:textSize="25sp" />
@@ -53,7 +53,7 @@
             android:layout_height="match_parent"
             android:layout_margin="2dp"
             android:layout_weight="1"
-            android:drawableStart="@drawable/ic_local_dining_white_24dp"
+            android:drawableStart="@drawable/ic_local_dining_black_24dp"
             android:onClick="toMenu"
             android:text="@string/dc"
             android:textSize="25sp" />
@@ -65,7 +65,7 @@
             android:layout_height="match_parent"
             android:layout_margin="2dp"
             android:layout_weight="1"
-            android:drawableStart="@drawable/ic_local_cafe_white_24dp"
+            android:drawableStart="@drawable/ic_local_cafe_black_24dp"
             android:onClick="toMenu"
             android:text="@string/tea_shop"
             android:textSize="25sp" />

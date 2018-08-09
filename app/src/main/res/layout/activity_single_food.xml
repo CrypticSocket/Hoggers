@@ -28,7 +28,7 @@
             android:text="@string/name_of_selected_item"
             android:textAllCaps="true"
             android:gravity="center"
-            android:textSize="30sp"
+            android:textSize="24sp"
             android:textColor="@color/deepOrange"
             android:layout_marginTop="20dp"/>
 
@@ -42,7 +42,7 @@
                 android:id="@+id/singlePrice"
                 android:text="price"
                 android:textStyle="bold"
-                android:textSize="30sp"
+                android:textSize="22sp"
                 android:textColor="@color/deepOrange"/>
         </LinearLayout>
 
@@ -55,7 +55,7 @@
         android:layout_marginLeft="50dp"
         android:layout_marginRight="50dp"
         android:layout_height="wrap_content"
-        android:drawableEnd="@drawable/ic_shopping_cart_black_24dp"
+        android:drawableEnd="@drawable/ic_add_shopping_cart_black_24dp"
         android:onClick="orderItemClicked"
         android:text="Order Item"
         android:background="@drawable/button_shape"

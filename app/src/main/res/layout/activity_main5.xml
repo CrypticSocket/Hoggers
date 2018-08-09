@@ -11,6 +11,7 @@
         android:layout_height="wrap_content"
         android:text="@string/payment_successful"
         android:textSize="20sp"
+        android:gravity="center"
         android:textColor="@color/subHead"
         android:layout_alignParentTop="true"
         android:layout_marginTop="10dp"/>
@@ -20,7 +21,7 @@
         android:textColor="@color/colorAccent"
         android:text="@string/thank_you"
         android:gravity="center"
-        android:textSize="40sp"
+        android:textSize="20sp"
         android:layout_gravity="center"
         android:layout_centerInParent="true"
         android:layout_above="@+id/bottom"/>
@@ -39,10 +40,10 @@
             android:text="@string/like_to_do"
             android:layout_marginTop="10dp"
             android:gravity="center"
-            android:textSize="30sp"
+            android:textSize="22sp"
             android:textColor="#000"/>
 
-        <Button
+        <android.support.v7.widget.AppCompatButton
             android:layout_width="match_parent"
             android:layout_marginTop="5dp"
             android:layout_height="wrap_content"
