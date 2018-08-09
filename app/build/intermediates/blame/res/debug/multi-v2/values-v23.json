@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\saket\\AndroidStudioProjects\\Hoggers\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\saket\\OneDrive\\Documents\\GitHub\\Hoggers\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\saket\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-26.1.0.aar\\2e73a70712c9590b5e9a33213e203ce0\\res\\values-v23\\values-v23.xml",

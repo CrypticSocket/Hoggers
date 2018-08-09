@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\saket\\AndroidStudioProjects\\Hoggers\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
+            "outputFile": "C:\\Users\\saket\\OneDrive\\Documents\\GitHub\\Hoggers\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
             "map": [
                 {
                     "source": "C:\\Users\\saket\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\60051594af7c14059160f5ed7928ac56\\res\\values-es-rUS\\values.xml",

@@ -28,6 +28,7 @@ public class Main5Activity extends AppCompatActivity {
     public void mainMenu (View view)
     {
         Intent intent = new Intent(Main5Activity.this, Main2Activity.class);
+        intent.putExtra("FLAG",flag);
         startActivity(intent);
     }
 

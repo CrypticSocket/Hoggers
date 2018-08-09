@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\saket\\AndroidStudioProjects\\Hoggers\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\saket\\OneDrive\\Documents\\GitHub\\Hoggers\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\saket\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\26dc8b248717174360b23d43dc43642d\\res\\values\\values.xml",
@@ -18,6 +18,25 @@
                         "startOffsets": "11787,160382,160558,160680,160942,161137",
                         "endColumns": "88,65,121,60,65,66",
                         "endOffsets": "11871,160443,160675,160736,161003,161199"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\saket\\OneDrive\\Documents\\GitHub\\Hoggers\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "68,22,51,79,94,73,36,59,86,99,1,16,13,5,17,4,11,21,12,15,10,3,9,6,19,18,2,7,8,14,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2478,1154,2023,2749,3162,2611,1654,2268,2979,3296,17,760,634,232,821,189,538,1087,589,721,474,133,410,273,933,868,63,320,365,674,1000",
+                        "endLines": "72,35,58,85,98,77,49,66,92,103,1,16,13,5,17,4,11,21,12,15,10,3,9,6,19,18,2,7,8,14,20",
+                        "endColumns": "19,19,19,19,19,19,19,19,19,19,44,59,38,39,45,41,49,65,43,37,62,54,62,45,65,63,68,43,43,45,85",
+                        "endOffsets": "2605,1648,2262,2973,3290,2741,2015,2470,3154,3424,57,815,668,267,862,226,583,1148,628,754,532,183,468,314,994,927,127,359,404,715,1081"
+                    },
+                    "to": {
+                        "startLines": "2,7,21,29,36,41,46,60,68,75,887,889,909,911,912,919,920,921,922,923,924,925,926,927,933,935,937,938,939,941,942",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "150,278,764,1001,1224,1353,1484,1837,2037,2211,68774,68964,71449,71632,71672,72332,72374,72424,72490,72534,72572,72635,72690,72753,73614,73754,73871,73940,73984,74099,74145",
+                        "endLines": "6,20,28,35,40,45,59,67,74,79,887,889,909,911,912,919,920,921,922,923,924,925,926,927,933,935,937,938,939,941,942",
+                        "endColumns": "19,19,19,19,19,19,19,19,19,19,44,59,38,39,45,41,49,65,43,37,62,54,62,45,65,63,68,43,43,45,85",
+                        "endOffsets": "273,759,996,1219,1348,1479,1832,2032,2206,2335,68814,69019,71483,71667,71713,72369,72419,72485,72529,72567,72630,72685,72748,72794,73675,73813,73935,73979,74023,74140,74226"
                     }
                 },
                 {
@@ -76,26 +95,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\saket\\AndroidStudioProjects\\Hoggers\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "68,22,51,79,94,73,36,59,86,99,1,16,13,5,17,4,11,21,12,15,10,3,9,6,19,18,2,7,8,14,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2478,1154,2023,2749,3162,2611,1654,2268,2979,3296,17,760,634,232,821,189,538,1087,589,721,474,133,410,273,933,868,63,320,365,674,1000",
-                        "endLines": "72,35,58,85,98,77,49,66,92,103,1,16,13,5,17,4,11,21,12,15,10,3,9,6,19,18,2,7,8,14,20",
-                        "endColumns": "19,19,19,19,19,19,19,19,19,19,44,59,38,39,45,41,49,65,43,37,62,54,62,45,65,63,68,43,43,45,85",
-                        "endOffsets": "2605,1648,2262,2973,3290,2741,2015,2470,3154,3424,57,815,668,267,862,226,583,1148,628,754,532,183,468,314,994,927,127,359,404,715,1081"
-                    },
-                    "to": {
-                        "startLines": "2,7,21,29,36,41,46,60,68,75,887,889,909,911,912,919,920,921,922,923,924,925,926,927,933,935,937,938,939,941,942",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "150,278,764,1001,1224,1353,1484,1837,2037,2211,68774,68964,71449,71632,71672,72332,72374,72424,72490,72534,72572,72635,72690,72753,73614,73754,73871,73940,73984,74099,74145",
-                        "endLines": "6,20,28,35,40,45,59,67,74,79,887,889,909,911,912,919,920,921,922,923,924,925,926,927,933,935,937,938,939,941,942",
-                        "endColumns": "19,19,19,19,19,19,19,19,19,19,44,59,38,39,45,41,49,65,43,37,62,54,62,45,65,63,68,43,43,45,85",
-                        "endOffsets": "273,759,996,1219,1348,1479,1832,2032,2206,2335,68814,69019,71483,71667,71713,72369,72419,72485,72529,72567,72630,72685,72748,72794,73675,73813,73935,73979,74023,74140,74226"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\saket\\AndroidStudioProjects\\Hoggers\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\saket\\OneDrive\\Documents\\GitHub\\Hoggers\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "4,2,3,5,6,8,7",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -186,23 +186,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\saket\\AndroidStudioProjects\\Hoggers\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,307,389,493,596,716,813",
-                        "endColumns": "143,107,81,103,102,119,96,73",
-                        "endOffsets": "194,302,384,488,591,711,808,882"
-                    },
-                    "to": {
-                        "startLines": "910,913,914,915,916,917,918,934",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "71488,71718,71826,71908,72012,72115,72235,73680",
-                        "endColumns": "143,107,81,103,102,119,96,73",
-                        "endOffsets": "71627,71821,71903,72007,72110,72230,72327,73749"
-                    }
-                },
-                {
                     "source": "C:\\Users\\saket\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\f6d1b77865c7857b4370fd3f3a9535eb\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -220,13 +203,49 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\saket\\AndroidStudioProjects\\Hoggers\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "source": "C:\\Users\\saket\\OneDrive\\Documents\\GitHub\\Hoggers\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "952",
+                        "startColumns": "4",
+                        "startOffsets": "74960",
+                        "endLines": "958",
+                        "endColumns": "12",
+                        "endOffsets": "75270"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\saket\\OneDrive\\Documents\\GitHub\\Hoggers\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,307,389,493,596,716,813",
+                        "endColumns": "143,107,81,103,102,119,96,73",
+                        "endOffsets": "194,302,384,488,591,711,808,882"
+                    },
+                    "to": {
+                        "startLines": "910,913,914,915,916,917,918,934",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "71488,71718,71826,71908,72012,72115,72235,73680",
+                        "endColumns": "143,107,81,103,102,119,96,73",
+                        "endOffsets": "71627,71821,71903,72007,72110,72230,72327,73749"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\saket\\OneDrive\\Documents\\GitHub\\Hoggers\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "55",
+                        "startOffsets": "57",
                         "endColumns": "56",
-                        "endOffsets": "107"
+                        "endOffsets": "109"
                     },
                     "to": {
                         "startLines": "231",
@@ -251,25 +270,6 @@
                         "startOffsets": "64766,64976,65115,65162,65217,65504,65558,65610,65659,65720",
                         "endColumns": "39,42,46,54,44,53,51,48,60,49",
                         "endOffsets": "64801,65014,65157,65212,65257,65553,65605,65654,65715,65765"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\saket\\AndroidStudioProjects\\Hoggers\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "9",
-                        "endColumns": "12",
-                        "endOffsets": "373"
-                    },
-                    "to": {
-                        "startLines": "952",
-                        "startColumns": "4",
-                        "startOffsets": "74960",
-                        "endLines": "958",
-                        "endColumns": "12",
-                        "endOffsets": "75270"
                     }
                 }
             ]

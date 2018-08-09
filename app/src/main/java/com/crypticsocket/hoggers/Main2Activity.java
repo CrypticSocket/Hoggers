@@ -20,6 +20,8 @@ public class Main2Activity extends AppCompatActivity {
         madd = (Button) findViewById(R.id.b_MC);
         dosa = (Button) findViewById(R.id.b_DC);
         ex1 = (Button) findViewById(R.id.b_ex1);
+        Intent intent = getIntent();
+        flag = intent.getIntExtra("FLAG",flag);
     }
 
     public void toMenu(View view)
