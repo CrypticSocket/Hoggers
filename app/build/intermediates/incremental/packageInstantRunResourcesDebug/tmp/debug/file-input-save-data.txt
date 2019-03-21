@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Feb 19 14:37:11 IST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\louisa.suting\\Desktop\\Hoggers\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.path=fonts/PWYummyDonuts.ttf
+0.set=ASSET
+count=1

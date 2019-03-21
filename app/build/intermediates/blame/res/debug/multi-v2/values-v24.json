@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\saket\\OneDrive\\Documents\\GitHub\\Hoggers\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\louisa.suting\\Desktop\\Hoggers\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\saket\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\26dc8b248717174360b23d43dc43642d\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\louisa.suting\\Desktop\\gradle-4.6\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\32aae13a3b1ad885e8781a885ad10fe4\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\saket\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\7375951fe06ccef4baadc3418dfe52e1\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\louisa.suting\\Desktop\\gradle-4.6\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0450885a0fc349883e4ba6c041da41c4\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

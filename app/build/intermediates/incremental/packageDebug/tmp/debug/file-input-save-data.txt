@@ -1,7 +1,11 @@
 #Internal package file, do not edit.
-#Thu Aug 09 21:38:09 IST 2018
+#Fri Mar 22 00:44:18 IST 2019
+1.base=C\:\\Users\\louisa.suting\\Desktop\\Hoggers\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\saket\\OneDrive\\Documents\\GitHub\\Hoggers\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
 0.path=classes.dex
 0.set=DEX
-count=1
+0.base=C\:\\Users\\louisa.suting\\Desktop\\Hoggers\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+1.path=fonts/PWYummyDonuts.ttf

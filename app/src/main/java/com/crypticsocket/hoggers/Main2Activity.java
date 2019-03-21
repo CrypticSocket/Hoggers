@@ -1,10 +1,12 @@
 package com.crypticsocket.hoggers;
 
 import android.content.Intent;
+import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class Main2Activity extends AppCompatActivity {
@@ -16,12 +18,21 @@ public class Main2Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-        juice = (Button) findViewById(R.id.b_JB);
-        madd = (Button) findViewById(R.id.b_MC);
-        dosa = (Button) findViewById(R.id.b_DC);
-        ex1 = (Button) findViewById(R.id.b_ex1);
+        juice =  findViewById(R.id.b_JB);
+        madd =  findViewById(R.id.b_MC);
+        dosa =  findViewById(R.id.b_DC);
+        ex1 =  findViewById(R.id.b_ex1);
         Intent intent = getIntent();
         flag = intent.getIntExtra("FLAG",flag);
+        TextView textView = findViewById(R.id.restaurantChoices);
+        Typeface typeface = Typeface.createFromAsset(getAssets(), "fonts/PWYummyDonuts.ttf");
+        textView.setTypeface(typeface);
+        juice.setTypeface(typeface);
+        madd.setTypeface(typeface);
+        dosa.setTypeface(typeface);
+        ex1.setTypeface(typeface);
+
+
     }
 
     public void toMenu(View view)
