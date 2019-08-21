@@ -1019,7 +1019,6 @@ id passSign
 id percent
 id pin
 id priceFood
-id progressBar
 id progress_circular
 id progress_horizontal
 id radio
